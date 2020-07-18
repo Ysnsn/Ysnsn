@@ -11,5 +11,5 @@
 
 ###  📌Github Status
 ![统计信息👻](https://github-readme-stats.vercel.app/api?username=Ysnsn&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fa9191)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ysnsn&repo=Ysnsn.github.io)](https://github.com/Ysnsn/Ysnsn.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ysnsn&repo=picture)]
