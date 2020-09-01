@@ -35,4 +35,4 @@
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 	   
 ### 赞助我
-![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/alipay.jpg)
+<img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg" style="zoom:25%;" />![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg)<img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg" style="zoom:25%;" />![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/alipay.jpg)<img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg" style="zoom:25%;" />![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/alipay.jpg)
