@@ -11,15 +11,8 @@
 ![统计信息](https://github-readme-stats.vercel.app/api?username=Ysnsn&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fa9191)
 
 ![博客](https://github-readme-stats.vercel.app/api/pin/?username=Ysnsn&repo=Ysnsn.github.io)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ysnsn&repo=picture)
 
--   你不懂
-     一个人
-     怎么样
-     的辛苦
-	 我还相信爱情，只是不相信我会遇到而已
-	 不管是友情还是爱情，你来，我热情相拥。你走，我坦然放手!
-	 我未曾拥有过，也谈不上失去。
+-   你不懂一个人怎么样的辛苦，我还相信爱情，只是不相信我会遇到而已，不管是友情还是爱情，你来，我热情相拥。你走，我坦然放手!我未曾拥有过，也谈不上失去。
 
                               _ooOoo_
                              o8888888o
@@ -40,3 +33,6 @@
            ======`-.____`-.___\_____/___.-`____.-'======
                               `=---='
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	   
+### 赞助我
+![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg)![](https://cdn.jsdelivr.net/gh/Ysnsn/donate/alipay.jpg)
