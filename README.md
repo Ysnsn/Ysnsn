@@ -1,7 +1,7 @@
 ### 🎈 看这里呀👋
 
 - 🌱 目前还是一名大一学生，专业是环境工程💰喜欢计算机的咸鱼一条，经常抽出空余时间学习各种语言编程以及知识，虽然懂得不多，但是这是我最喜欢的爱好吧。同时也喜欢各种游戏，沉浸在这个完美的虚拟世界，起码能暂时忘掉这充满回忆该死的现实🍀 
-- 📫 How to reach me: Email：wyang0558@gmail.com & [我的博客]( https://ysnsn.cn/) & [微博📩](https://weibo.com/ysnsn) & ~~微信不怎么玩~~
+- 📫 How to reach me:  Email：wyang0558@gmail.com & [我的博客]( https://ysnsn.cn/) & [微博📩](https://weibo.com/ysnsn) & ~~微信不怎么玩~~
 
 
 ###  📌Github Status 👻
@@ -31,5 +31,4 @@
                               `=---='
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 	   
-### 赞助我
-<img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/weixin.jpg" style="zoom:25%;" /><img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/qq.jpg" style="zoom:25%;" /><img src="https://cdn.jsdelivr.net/gh/Ysnsn/donate/alipay.jpg" style="zoom:25%;" />
+
