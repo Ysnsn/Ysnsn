@@ -1,7 +1,7 @@
 ### 📫 How to reach me:  
 - Email：wyang0558@gmail.com 
 - [我的博客]( https://ysnsn.cn/) 
-_ [微博📩](https://weibo.com/ysnsn) 
+- [微博📩](https://weibo.com/ysnsn) 
 - ~~微信不怎么玩~~
 
 
