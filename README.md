@@ -36,6 +36,6 @@
 ### 赞助我
  http://zz.ysnsn.cn
  
- <img title="微信赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/img@latest/2020/10/19/459adcac31dfb805d5886011cd946769.png" width="150" height="150"><img title="QQ钱包赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/img@latest/2020/10/19/459adcac31dfb805d5886011cd946769.png" width="150" height="150"><img title="支付宝赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/img@latest/2020/10/19/459adcac31dfb805d5886011cd946769.png" width="150" height="150">
+ <img title="微信赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/weixin.jpg" width="150" height="150"><img title="QQ钱包赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/qq.jpg" width="150" height="150"><img title="支付宝赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/alipay.jpg" width="150" height="150">
 	   
 
