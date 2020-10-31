@@ -21,7 +21,7 @@
 ### 🍻 Give Me A Cup Of Beer?
  http://zz.ysnsn.cn
  
- <img title="微信赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/weixin.jpg" width="400" height="400"><img title="QQ钱包赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/qq.jpg" width="400" height="400"><img title="支付宝赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/alipay.jpg" width="400" height="400">
+ <img title="赞助" src="https://cdn.jsdelivr.net/gh/Ysnsn/donate@latest/qr.png" width="400" height="400">
 	   
 -   你不懂一个人怎么样的辛苦，我还相信爱情，只是不相信我会遇到而已，不管是友情还是爱情，你来，我热情相拥。你走，我坦然放手!我未曾拥有过，也谈不上失去。
 
