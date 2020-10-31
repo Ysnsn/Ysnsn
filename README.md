@@ -13,7 +13,7 @@
 
 ![博客](https://github-readme-stats.vercel.app/api/pin/?username=Ysnsn&repo=Ysnsn.github.io)
 
-**WAIT**
+🙄**WAIT**
 
 ![](https://github-readme-stats.cyfan.top/api/top-langs/?username=Ysnsn)
 
