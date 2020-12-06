@@ -1,11 +1,11 @@
 ### 💬 How to reach me:  
 - Email：wyang0558@gmail.com 
-- [我的博客]( https://ysnsn.cn/) 
+- [我的博客]🔖( https://ysnsn.cn/) 
 - [微博📩](https://weibo.com/ysnsn) 
 - ~~微信不怎么玩~~
 
 
-###  📌Github Status 👻
+###  📌Github Status 
 
 ![统计信息](https://github-readme-stats.vercel.app/api?username=Ysnsn&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=fa9191)
 
